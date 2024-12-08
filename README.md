@@ -35,22 +35,25 @@ With operations in ten tier-2 cities across India, Goodcabs has set ambitious pe
 
 4. City-level repeat passenger trip frequency report:
    
-        Cities like Visakhapatnam, Jaipur, and Mysore primarily contribute to Trip2, indicating a focus on regular trips and a tourism orientation.
-        In contrast, Surat, Vadodara, and Lucknow show higher contributions in Trip3 to Trip7, signalling these cities are more business-focused.
+        1. Cities like Visakhapatnam, Jaipur, and Mysore primarily contribute to Trip2,
+           indicating a focus on regular trips and a tourism orientation.
+        2. In contrast, Surat, Vadodara, and Lucknow show higher contributions in Trip3 to Trip7,
+           signalling these cities are more business-focused.
 
-5. Identify cities with highest and lowest total new passengers:
+6. Identify cities with highest and lowest total new passengers:
 
         Top 3 cities by new passengers are Jaipur, Kochi, and Chandigarh.
         Bottom 3 cities by new passengers are Coimbatore, Vadodara, and Surat.
 
-6. Identify month with highest revenue for each city:
+7. Identify month with highest revenue for each city:
    
         Jaipur (Feb: 20.82%), Kochi (May: 19.61%), and Chandigarh (Feb: 19.07%) are the highest revenue-contributing cities in their respective months.
 
-7. Repeat passenger rate analysis:
+8. Repeat passenger rate analysis:
         
         Cities with high repeat passenger rates: Surat, Lucknow, Indore, and Vadodara.
         Cities with low repeat passenger rates: Mysore, Jaipur, and Kochi, likely due to their tourism focus.
 
-13. Cities who have greater avg rating then targeted avg rating for passengers:
-    Jaipur, Kochi, and Mysore exceed the target average passenger rating, likely due to their higher tourist ratings (assumed).
+13. Cities who have greater avg rating then targeted avg rating for passengers
+    
+            Jaipur, Kochi, and Mysore exceed the target average passenger rating, likely due to their higher tourist ratings (assumed).
